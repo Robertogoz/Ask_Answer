@@ -1,0 +1,17 @@
+{
+  "name": "projeto1_fundacao_node",
+  "version": "1.0.0",
+  "description": "A questions answers application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Goz",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.1"
+  }
+}

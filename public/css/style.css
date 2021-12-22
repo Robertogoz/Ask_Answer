@@ -1,0 +1,9 @@
+body {
+    background-color: #eceff1;
+}
+img {
+    max-width: 30px;
+}
+#ask-form {
+    margin-top: 5vh;
+}
