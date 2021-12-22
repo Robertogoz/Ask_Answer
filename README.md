@@ -23,7 +23,7 @@
 
 * run `npm install` in main directory terminal and `node index.js` to run
 
-* open your browser in localhost:3000 to use
+* open your browser in `localhost:3000` to use
 
 
 
